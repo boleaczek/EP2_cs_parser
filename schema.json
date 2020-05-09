@@ -1,0 +1,19 @@
+{
+    "handle" : "C1",
+    "name" : "C2",
+    "concept" : "C3",
+    "background" : "C4",
+    "career" : "C5",
+    "intrests" : "C6",
+    "faction" : "C7",
+    "languages" : { 
+        "col" :"C", 
+        "row_start" : 8, 
+        "row_stop" : 10
+    },
+    "motivation" : {
+        "col" : "C", 
+        "row_start" : 11, 
+        "row_stop" : 12
+    }
+}
